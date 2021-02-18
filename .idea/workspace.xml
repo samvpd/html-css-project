@@ -15,19 +15,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workspace\html-test" />
       <recent name="C:\workspace\html-test\assets" />
+      <recent name="C:\workspace\html-test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workspace\html-test\assets" />
@@ -43,7 +44,7 @@
       <updated>1611769231942</updated>
       <workItem from="1611769232952" duration="12739000" />
       <workItem from="1611926277580" duration="26628000" />
-      <workItem from="1612086039945" duration="2663000" />
+      <workItem from="1612086039945" duration="7499000" />
     </task>
     <servers />
   </component>
